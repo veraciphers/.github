@@ -1,21 +1,30 @@
 # VERACIPHERS ($VRQ) — Community Health Files
 
-> This repository contains the default community health files for the **VERACIPHERS** organization within the [AXIOLEDGER](https://github.com/axioledger) ecosystem.
+> Layer: **ZK-Proof & Privacy DID** · ANS Domain: `.vrq` · NPM Scope: `@veraciphers/*`
+
+This repository (`veraciphers/.github`) contains default community health files for all repositories in the **veraciphers** organization within the [AXIOLEDGER](https://github.com/axioledger) ecosystem.
+
+## Identity Map
+
+| Attribute | Value |
+|---|---|
+| **Ticker** | `$VRQ` |
+| **Layer** | ZK-Proof & Privacy DID |
+| **ANS TLD** | `.vrq` |
+| **NPM Scope** | `@veraciphers/*` |
+| **Sample Repos** | `vrq-zk-circuits, vrq-did-resolver` |
+| **GitHub Org** | [@veraciphers](https://github.com/veraciphers) |
 
 ## Contents
 
 | File | Description |
 |---|---|
-| [`profile/README.md`](profile/README.md) | Organization profile — displayed on `github.com/veraciphers` |
-| [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) | Contributor Covenant v2.1 — community standards |
-| [`CONTRIBUTING.md`](CONTRIBUTING.md) | How to contribute to VERACIPHERS repositories |
-| [`LICENSE`](LICENSE) | Business Source License 1.1 (BSL-1.1) |
-| [`SECURITY.md`](SECURITY.md) | Security policy & responsible disclosure |
-
-## Organization Profile
-
-The [`profile/README.md`](profile/README.md) is the public-facing organization profile visible on `https://github.com/veraciphers`.
+| [`profile/README.md`](profile/README.md) | Organization profile — visible on `github.com/veraciphers` |
+| [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) | Contributor Covenant v2.1 |
+| [`CONTRIBUTING.md`](CONTRIBUTING.md) | Contribution guidelines incl. GPG signing & branch naming |
+| [`LICENSE`](LICENSE) | BSL 1.1 (core) / MIT (public SDKs) |
+| [`SECURITY.md`](SECURITY.md) | Vulnerability disclosure & bug bounty |
 
 ---
 
-*Part of the [AXIOLEDGER](https://github.com/axioledger) ecosystem — Genesis v0.0.0*
+*AXIOLEDGER Ecosystem — Genesis v0.0.0 · Node: `axioledger-devnode` · `192.168.0.47`*
